@@ -79,6 +79,9 @@ def q_learning(env,
 <br>
 <br>
 
+<br>
+<br>
+
 ## OUTPUT:
 ### Mention the optimal policy, optimal value function , success rate for the optimal policy.
 ![image](https://github.com/Sandhyacharu/q-learning/assets/75235167/5054350d-40a3-45ca-946f-a091b2dac17b)
