@@ -1,5 +1,6 @@
-# Q Learning Algorithm
-
+### EX NO: 07
+### DATE:
+# <p align="center">Q Learning Algorithm</p>
 
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
@@ -25,6 +26,9 @@ Compare Q-Learning policy and state values with Monte Carlo results for the give
 
 ## Q LEARNING FUNCTION
 ```python3
+# Developed by: Sandhya Charu N
+# Register Number: 212220230041
+
 def q_learning(env, 
                gamma=1.0,
                init_alpha=0.5,
