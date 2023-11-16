@@ -26,7 +26,7 @@ Compare Q-Learning policy and state values with Monte Carlo results for the give
 
 <br>
 <br>
-
+<br>
 
 ## Q LEARNING FUNCTION
 ```python3
@@ -70,7 +70,12 @@ def q_learning(env,
 ```
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## OUTPUT:
 ### Mention the optimal policy, optimal value function , success rate for the optimal policy.
